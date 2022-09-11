@@ -13,14 +13,14 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 
 # Let's Connect!
 ---
- [![alt text][1.1]width="100"][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
+ [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
  
 
 
 <!-- social icons-->
 
 
-[1.1]: https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png 
+[1.1]: https://www.iconsdb.com/icons/download/black/twitter-16.png 
 [2.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png
 [3.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png
 [4.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Medium_black.png
