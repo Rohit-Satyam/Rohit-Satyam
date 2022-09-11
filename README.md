@@ -20,7 +20,7 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 <!-- social icons-->
 
 
-[1.1]: https://primer.style/octicons/mark-github-16 
+[1.1]: https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-256.png
 [2.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png
 [3.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png
 [4.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Medium_black.png
