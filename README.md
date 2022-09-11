@@ -21,9 +21,9 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 
 
 [1.1]: https://www.iconsdb.com/icons/download/black/twitter-16.png 
-[2.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png
-[3.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png
-[4.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Medium_black.png
+[2.1]: https://www.iconsdb.com/icons/download/black/linkedin-16.png
+[3.1]: https://www.iconsdb.com/icons/download/black/github-10-16.png
+[4.1]: https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png
 
 
 <!-- links to social-->
