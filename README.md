@@ -8,7 +8,7 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 
 
 - 🌈 Pronouns: He/Him <br>
-- 💻 Coding: Bash, R, Python (Basic), Shiny, Nextflow <br>
+- 💻 Coding: Bash, R, Python (Basic), Shiny, Nextflow(Newbie) <br>
 - 🚴‍♀️ Hobbies: Singing,  <br>
 
 # Let's Connect!
