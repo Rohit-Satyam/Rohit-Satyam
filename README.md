@@ -20,10 +20,10 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 <!-- social icons-->
 
 
-[1.1]: https://www.iconsdb.com/icons/download/barbie-pink/twitter-4-32.png
-[2.1]: https://www.iconsdb.com/icons/download/barbie-pink/linkedin-4-32.png
-[3.1]: https://www.iconsdb.com/icons/download/barbie-pink/github-9-32.png
-[4.1]: images/social-icons/medium-pink.png
+[1.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png
+[2.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png
+[3.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png
+[4.1]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Medium_black.png
 
 
 <!-- links to social-->
