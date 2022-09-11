@@ -1,3 +1,4 @@
+![](github.png)
 # Hi there 👋
 I am a data analysis enthusiast and Bioinformatician at King Abdullah University of Science and Technology, Saudi Arabia. I handle all sorts of Genomics Data Analysis, Data Visualisation and reproducile research needs of my group. 
 
@@ -9,3 +10,6 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 - 🌈 Pronouns: He/Him <br>
 - 💻 Coding: Bash, R, Python (Basic), Shiny, Nextflow <br>
 - 🚴‍♀️ Hobbies: Singing,  <br>
+
+# Let's Connect!
+
