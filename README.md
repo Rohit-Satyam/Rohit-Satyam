@@ -12,4 +12,22 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 - 🚴‍♀️ Hobbies: Singing,  <br>
 
 # Let's Connect!
+---
+ [![alt text][1.1]][1]  &nbsp; [![alt text][2.1]][2] &nbsp; [![alt text][3.1]][3]&nbsp; [![alt text][4.1]][4]
+ 
 
+
+<!-- social icons-->
+
+
+[1.1]: https://www.iconsdb.com/icons/download/barbie-pink/twitter-4-32.png
+[2.1]: https://www.iconsdb.com/icons/download/barbie-pink/linkedin-4-32.png
+[3.1]: https://www.iconsdb.com/icons/download/barbie-pink/github-9-32.png
+[4.1]: images/social-icons/medium-pink.png
+
+
+<!-- links to social-->
+[1]: https://twitter.com/RohitSatyam1
+[2]: https://www.linkedin.com/in/rohit-satyam-705617117/
+[3]: https://github.com/Rohit-Satyam/
+[4]: https://medium.com/@rohitsatyam
