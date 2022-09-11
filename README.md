@@ -22,7 +22,7 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 
 [1.1]: https://www.iconsdb.com/icons/download/black/twitter-16.png 
 [2.1]: https://www.iconsdb.com/icons/download/black/linkedin-16.png
-[3.1]: https://www.iconsdb.com/icons/download/black/github-10-48.png
+[3.1]: https://www.iconsdb.com/icons/download/black/github-10-32.png
 [4.1]: medium.png
 
 
