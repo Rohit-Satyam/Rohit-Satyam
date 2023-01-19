@@ -1,6 +1,6 @@
 ![](github.png)
 # Hi there 👋
-I am a data analysis enthusiast and Bioinformatician at King Abdullah University of Science and Technology, Saudi Arabia. I handle all sorts of Genomics Data Analysis, Data Visualisation and reproducile research needs of my group. 
+I am a data analysis enthusiast and Bioinformatician. I love to code in R and handles all sorts of Genomics Data Analysis, Data Visualisation. Working towards reproducile research following FAIR principles. 
 
 
 **Status:** Currently married to science until I find something more physical 🏳️‍🌈 
@@ -9,7 +9,7 @@ I am a data analysis enthusiast and Bioinformatician at King Abdullah University
 
 - 🌈 Pronouns: He/Him <br>
 - 💻 Coding: Bash, R, Python (Basic), Shiny, Nextflow(Newbie) <br>
-- 🚴‍♀️ Hobbies: Singing,  <br>
+- 🚴‍♀️ Hobbies: Singing, Book reading <br>
 
 # Let's Connect!
 ---
