@@ -1,4 +1,4 @@
-![Logo](https://github.com/Rohit-Satyam/Rohit-Satyam/main/github.png) <br>
+![](github.png) 
 
 # Hi there 👋
 I am a data analysis enthusiast and Bioinformatician. I love to code in R and handles all sorts of Genomics Data Analysis, Data Visualisation. Working towards reproducile research following FAIR principles. 
